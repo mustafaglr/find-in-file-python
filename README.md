@@ -9,5 +9,8 @@ cp ff /bin
 
 ```
 ff string_to_find file_dir ext_list
-example: ff os . txt yml csv
+
+examples: 
+    ff os . txt yml csv
+    ff import . sh
 ```
