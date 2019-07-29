@@ -8,5 +8,6 @@ cp ff /bin
 ## Usage
 
 ```
-ff string_to_find file_dir
+ff string_to_find file_dir ext_list
+example: ff os . txt yml csv
 ```
