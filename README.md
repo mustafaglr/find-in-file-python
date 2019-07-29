@@ -2,7 +2,7 @@
 
 ```python
 chmod +x ff
-cp ff /bin
+sudo cp ff /bin
 ```
 
 ## Usage
