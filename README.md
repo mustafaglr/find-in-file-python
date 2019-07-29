@@ -1,16 +1,16 @@
 # find-in-file-python
 
 ```python
-chmod +x ff
-sudo cp ff /bin
+chmod +x fif
+sudo cp fif /bin
 ```
 
 ## Usage
 
 ```
-ff string_to_find file_dir ext_list
+fif string_to_find file_dir ext_list
 
 examples: 
-    ff os . txt yml csv
-    ff import . sh
+    fif os . txt yml csv
+    fif import . sh
 ```
