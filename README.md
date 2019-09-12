@@ -15,6 +15,6 @@ examples:
     fif import . sh
 ```
 
-## Supported file type
+## Supported file types
 
 yml, txt, csv, sh, json and other similar text file types
