@@ -14,3 +14,7 @@ examples:
     fif os . txt yml csv
     fif import . sh
 ```
+
+## Supported file type
+
+yml, txt, csv, sh, json and other similar text file types
